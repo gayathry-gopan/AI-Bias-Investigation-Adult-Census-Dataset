@@ -1,7 +1,7 @@
 # AI-Bias-Investigation-Adult-Census-Dataset
 This case study explores bias detection and fairness evaluation in machine learning models using the 1994 Adult Census Dataset. The dataset was originally intended to predict whether an individual's income exceeds $50k/year. In this scenario:
 
-Individuals predicted to earn > $50k are flagged for tax audits.
+ *  Individuals predicted to earn > $50k are flagged for tax audits.
 
 Individuals predicted to earn ≤ $50k are pre-qualified for a social welfare program.
 
